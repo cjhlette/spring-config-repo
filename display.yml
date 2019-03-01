@@ -1,5 +1,5 @@
 test:
-  server-group: test
+  server-group: local
 
 hystrix:
   command:
